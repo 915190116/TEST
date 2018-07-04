@@ -6,3 +6,4 @@
  * Time: 下午6:18
  */
 echo "Hello";
+echo "Bye";
